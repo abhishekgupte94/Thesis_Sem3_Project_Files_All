@@ -4,5 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="$USER_HOME$/miniforge3/envs/tensorflow_absolute_final_cl (3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="poi-forensics-test" />
   </component>
 </module>
